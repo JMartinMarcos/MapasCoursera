@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MapasCursera</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="TORRE_EIFFEL">TORRE EIFFEL</string>
+    <string name="ESTATUA_DE_LA_LIBERTAD">ESTATUA DE LA LIBERTAD</string>
+    <string name="TAJ_MAHAL">TAJ MAHAL</string>
+    <string name="OPERA_DE_SIDNEY">OPERA DE SIDNEY</string>
+</resources>
